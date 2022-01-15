@@ -20,6 +20,6 @@ In this studio, we investigate plotters' potential in introducing creative progr
 
 
 
-| ![Examples of plotter-made generative art](images/example_images.jpg) |
+|![Examples of plotter-made generative art](/assets/example_images.jpg)|
 |:--:|
 | <b><i>Left:</i> plotters are accessible CNC machines that guide various tools (e.g., pen, pencil, and brush) along vector paths. <i>Right:</i> examples of plotter-made paintings that are created from one algorithm. Original artwork by Shiqing He.</b> |

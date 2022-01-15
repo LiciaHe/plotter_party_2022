@@ -8,7 +8,7 @@ title: Planned Activities
 
 This half-day workshop is intended as an introduction to creative coding, generative art and using plotters. The style of the studio will models an introduction to coding and generative art for non-CS majors.
 
-![Proposed Schedule](images/party_timeline.jpg)
+![Proposed Schedule](/assets/party_timeline.jpg)
 
 Although participation is virtual, this studio is fully interactive. Our planned activities include:
  - Introduction, History & Foundation of Generative Art using Plotters
