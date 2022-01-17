@@ -34,7 +34,6 @@ In this studio, we investigate plotters' potential in introducing creative progr
 
 **Studio Registration Fee:** US$30 (payable via [TEI'22 registration system](https://tei.acm.org/2022/attend/registration/))
 
-**Studio Material Fee:** US$15 (payable via [TEI'22 registration system](https://tei.acm.org/2022/attend/registration/))
 
 **Studio size**: Max 10 participants
 
