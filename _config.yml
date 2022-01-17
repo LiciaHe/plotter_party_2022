@@ -22,8 +22,8 @@ title: Collaborative Creative Coding Through Drawing Robots
 email: Dr. Shiqing Licia He and Dr. Jasmine Jones
 description: >- # this means to ignore newlines until "baseurl:"
   By introducing collaborative creative programming through the lens of plotters, we explore solutions to challenges in programming education, collaborative programming, and personal fabrication.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/plotter_party_2022" # the subpath of your site, e.g. /blog
+url: "https://liciahe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings

@@ -18,5 +18,6 @@ Although participation is virtual, this studio is fully interactive. Our planned
 
 The goal of the workshop is for participants to come away with a model of how to introduce plotters into their educational contexts, hands-on practice with creating generative art with other people and machines, and a unique souvenir of your plotter art! After the workshop, we will mail postcards of our art pieces to all participants, and the written code will be posted to Github for participants to access later.  
 
-Studio size: Max 10 participants
-How to apply
+**Studio size**: Max 10 participants
+
+
